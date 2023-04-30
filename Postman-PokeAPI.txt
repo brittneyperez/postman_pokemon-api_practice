@@ -1,0 +1,7 @@
+# Pokémon
+
+1. https://pokeapi.co/api/v2/pokemon/25
+2. https://pokeapi.co/api/v2/pokemon/jirachi
+3. https://pokeapi.co/api/v2/pokemon/xerneas
+4. https://pokeapi.co/api/v2/pokemon/pumpkaboo-average
+5. https://pokeapi.co/api/v2/pokemon-species/509
